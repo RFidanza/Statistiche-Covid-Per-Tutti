@@ -3,4 +3,4 @@ Web App sviluppata utilizzando i dati riguardanti la pandemia da Covid-19 in Ita
 Una particolare attenzione è stata posta sui vaccini divisi per fornitore e organizzati per fascia di età.
 
 
-*Link alla pagina: [link](http://statistichecovidpertutti.shinyapps.io/covidpage?_ga=2.226165850.1921126123.1658390931-1359346165.1658390931)
+*Link alla pagina : [link](http://statistichecovidpertutti.shinyapps.io/covidpage?_ga=2.226165850.1921126123.1658390931-1359346165.1658390931)
